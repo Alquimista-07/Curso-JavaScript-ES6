@@ -5,7 +5,7 @@ Repositorio git creado para almacenar los ejercicios realizados para el curso de
 
 Instructor Francisco Javier Arce Anguiano.
 
-#Descripción
+# Descripción
 
 Uno de los cambios más importantes dentro del lenguaje JavaScript, uno de los más utilizados actualmente en el desarrollo web. La nueva versión web de la especificaciones del ECMAScript 6 o 2015 (European Computer Manufacturers Association) que también se le conoce como ES6. En este curso podrás actulizar tus conocimientos en JavaScript con los siguientes objetivos:
 
