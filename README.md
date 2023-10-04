@@ -1,7 +1,7 @@
 # Curso-JavaScript-ES6
 
-Repositorio git creado para almacenar los ejercicios realizados para el curso de Udemy JavaScript-ES6. 
-(https://www.udemy.com/course/es6-javascript/)
+Repositorio git creado para almacenar los ejercicios realizados para el curso de [Udemy](https://www.udemy.com/course/es6-javascript/)
+ JavaScript-ES6. 
 
 Instructor Francisco Javier Arce Anguiano.
 
